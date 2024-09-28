@@ -1,1 +1,1 @@
-# todo-app-golang
+# todo-app-golang-react
