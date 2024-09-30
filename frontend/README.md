@@ -1,4 +1,11 @@
-# React + TypeScript + Vite
+># Back end
+>## Go + fiber + MongoDb
+
+># Front end
+>## React + TypeScript + Vite
+
+
+![First render](/picture.png)
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
